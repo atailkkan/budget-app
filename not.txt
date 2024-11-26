@@ -1,0 +1,30 @@
+Gelir & Gider Kalem
+-------------------
+id - (string)
+category - (string)
+description - (string)
+amount - (number)
+date - (date)
+type - (string)
+
+#
+
+Gelir & Gider Kategori
+----------------------
+id - (string)
+type - (string)
+title - (string)
+limit - (number)
+items - (array)
+
+#
+
+Kullanıcı
+---------
+id - (string)
+firstname - (string)
+surname - (string)
+username - (string)
+password - (string)
+categories - (array)
+
